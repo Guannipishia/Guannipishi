@@ -1,9 +1,8 @@
-# NAME: 中国黄页
+# NAME: 直连规则
 # AUTHOR: Guannipishi
 # REPO: https://github.com/Guannipishia/Guannipishi
 # UPDATED: 2024年01月24日 09:58:23
 # HOST: 1
 # HOST-SUFFIX: 1
 # TOTAL: 1
-HOST,vcards.metowolf.com
-#HOST-SUFFIX,vcards.metowolf.com
+HOST,vcards.metowolf.com,vCards CN

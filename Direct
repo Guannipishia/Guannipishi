@@ -4,4 +4,6 @@
 # HOST: 0
 # HOST-SUFFIX: 1
 # TOTAL: 1
-HOST-suffix,vcards.metowolf.com,vCards CN
+
+vCards CN
+HOST-suffix,vcards.metowolf.com

@@ -1,8 +1,7 @@
 # NAME: 直连规则
 # AUTHOR: Guannipishi
 # REPO: https://github.com/Guannipishia/Guannipishi
-# UPDATED: 2024年01月24日 09:58:23
-# HOST: 1
+# HOST: 0
 # HOST-SUFFIX: 1
 # TOTAL: 1
-HOST,vcards.metowolf.com,vCards CN
+HOST-suffix,vcards.metowolf.com,vCards CN

@@ -1,0 +1,9 @@
+# NAME: 代理规则
+# AUTHOR: Guannipishi
+# REPO: https://github.com/Guannipishia/Guannipishi
+# HOST: 0
+# HOST-SUFFIX: 1
+# TOTAL: 1
+
+# MISSAV
+HOST-suffix,missav.com

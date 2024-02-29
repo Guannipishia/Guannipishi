@@ -1,0 +1,8 @@
+# NAME: 代理规则
+# AUTHOR: Guannipishi
+
+# MISSAV
+DOMAIN-SUFFIX,missav.com
+
+# Openloadpro（IDOL）
+DOMAIN-SUFFIX,openloadpro.com

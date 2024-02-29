@@ -11,8 +11,8 @@
 
 ;设置规则标志位
 ruleset=🎵 TikTok,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list
-ruleset=🎵 关你屁事直连,https://raw.githubusercontent.com/Guannipishia/Guannipishi/main/Direct
-ruleset=🎵 关你屁事日本,https://raw.githubusercontent.com/Guannipishia/Guannipishi/main/JP-Proxy
+ruleset=🎵 关你屁事直连,https://raw.githubusercontent.com/Guannipishia/Guannipishi/main/Clash-Direct
+ruleset=🎵 关你屁事日本,https://raw.githubusercontent.com/Guannipishia/Guannipishi/main/Clash-JP
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list

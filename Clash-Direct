@@ -7,6 +7,6 @@ DOMAIN-SUFFIX,vcards.metowolf.com
 DOMAIN-SUFFIX,cfglobalcdn.com
 
 #PikPak
-DOMAIN,1196.mypikpak.com
-DOMAIN,0868.mypikpak.com
-DOMAIN,0875.mypikpak.com
+DOMAIN-SUFFIXdl-a10b-1196.mypikpak.com
+DOMAIN-SUFFIXdl-a10b-0868.mypikpak.com
+DOMAIN-SUFFIXdl-a10b-0875.mypikpak.com

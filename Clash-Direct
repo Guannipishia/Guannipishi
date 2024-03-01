@@ -1,12 +1,10 @@
 # NAME: 直连规则
 
 #vCards CN
-DOMAIN-SUFFIX,vcards.metowolf.com
+DOMAIN-SUFFIX,vcards.metowolf.com,DIRECT
 
 #IDOL 
-DOMAIN-SUFFIX,cfglobalcdn.com
+DOMAIN-SUFFIX,cfglobalcdn.com,DIRECT
 
 #PikPak
-DOMAIN-SUFFIX,dl-a10b-1196.mypikpak.com
-DOMAIN-SUFFIX,dl-a10b-0868.mypikpak.com
-DOMAIN-SUFFIX,dl-a10b-0875.mypikpak.com
+DOMAIN-KEYWORD,dl-a10b,DIRECT

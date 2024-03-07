@@ -5,8 +5,9 @@ DOMAIN-SUFFIX,vcards.metowolf.com,DIRECT
 
 #openload.pro 
 DOMAIN-SUFFIX,waaw.ac,DIRECT
-DOMAIN-SUFFIX,commentsmodule.com,🎯 关你屁事直连
-DOMAIN-SUFFIX,cfglobalcdn.com,🎯 关你屁事直连
+DOMAIN-SUFFIX,commentsmodule.com,DIRECT
+DOMAIN-SUFFIX,cfglobalcdn.com,DIRECT
+DOMAIN-SUFFIX,ytms.one,DIRECT
 
 #PikPak
 DOMAIN-KEYWORD,dl-a10b,DIRECT

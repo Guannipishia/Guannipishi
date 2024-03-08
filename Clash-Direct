@@ -1,8 +1,5 @@
 # NAME: 直连规则
 
-#测试百度更新
-DOMAIN-SUFFIX,baidu.com,DIRECT
-
 #vCards CN
 DOMAIN-SUFFIX,vcards.metowolf.com,DIRECT
 

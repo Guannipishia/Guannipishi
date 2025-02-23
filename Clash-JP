@@ -1,19 +1,10 @@
 # NAME: 代理规则
-# AUTHOR: Guannipishi
-
-# MISSAV
-DOMAIN-SUFFIX,missav.com
 
 # Openloadpro（IDOL）
 DOMAIN-SUFFIX,openloadpro.com
 
 # tokyomotion.net
 DOMAIN-SUFFIX,Tokyomotion.net
-
-#漫画鬼
-DOMAIN-SUFFIX,manhuagui.com
-DOMAIN-SUFFIX,hamreus.com
-DOMAIN-SUFFIX,mhgui.com
 
 #xasiat
 DOMAIN-SUFFIX,xasiat.com

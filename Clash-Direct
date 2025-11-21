@@ -3,15 +3,5 @@
 #vCards CN
 DOMAIN-SUFFIX,vcards.metowolf.com,DIRECT
 
-#ivfree 
-DOMAIN-SUFFIX,waaw.ac,DIRECT
-DOMAIN-SUFFIX,commentsmodule.com,DIRECT
-DOMAIN-SUFFIX,cfglobalcdn.com,DIRECT
-DOMAIN-SUFFIX,hqq.tv,DIRECT
-DOMAIN-SUFFIX,ytms.one,DIRECT
-
-#op.gg
-DOMAIN-KEYWORD,op.gg,DIRECT
-
 #itunes
 DOMAIN-KEYWORD,buy.itunes.apple.com,DIRECT

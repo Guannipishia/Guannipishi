@@ -1,8 +1,5 @@
 # NAME: 代理规则
 
-# Openloadpro（IDOL）
-DOMAIN-SUFFIX,openloadpro.com
-
 # tokyomotion.net
 DOMAIN-SUFFIX,Tokyomotion.net
 

@@ -1,17 +1,5 @@
-#FUFU
-DOMAIN-KEYWORD,fufuvip.violet.run,DIRECT
-DOMAIN-KEYWORD,cdn.fufuemby.top,DIRECT
-DOMAIN-KEYWORD,mobile.fufuemby.top,DIRECT
-DOMAIN-KEYWORD,unicom.fufuemby.top,DIRECT
-DOMAIN-KEYWORD,telecom.fufuemby.top,DIRECT
-
-#violet
-DOMAIN-KEYWORD,emby.violet.run,DIRECT
-DOMAIN-KEYWORD,violetcdn.fufuemby.top,DIRECT
-DOMAIN-KEYWORD,cmcdn.fufuemby.top,DIRECT
-DOMAIN-KEYWORD,ctcdn.fufuemby.top,DIRECT
-DOMAIN-KEYWORD,cucdn.fufuemby.top,DIRECT
-DOMAIN-KEYWORD,46.3.109.178,DIRECT
+#trakt
+trakt.tv
 
 #Lily
 DOMAIN-KEYWORD,lilyemby.com,DIRECT

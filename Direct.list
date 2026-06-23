@@ -1,0 +1,15 @@
+# NAME: 直连规则
+
+#UHD
+DOMAIN-KEYWORD,uhdnow.com,DIRECT
+DOMAIN-KEYWORD,uhdgo.com,DIRECT
+DOMAIN-KEYWORD,once.im,DIRECT
+DOMAIN-KEYWORD,uhdgo.online,DIRECT
+DOMAIN-KEYWORD,uhdnow.online,DIRECT
+
+#PikPak
+DOMAIN-KEYWORD,dl-a10b
+DOMAIN-KEYWORD,api-drive.mypikpak.com
+DOMAIN-KEYWORD,vip-lixian
+DOMAIN-KEYWORD,dav.mypikpak.com
+DOMAIN-KEYWORD,dl-z01a

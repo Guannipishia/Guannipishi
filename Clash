@@ -265,7 +265,6 @@ rule-providers:
     interval: 86400
     format: text
     type: http
-rule-providers:
   LocalAreaNetwork:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/LocalAreaNetwork.list
     path: ./ruleset/LocalAreaNetwork.list

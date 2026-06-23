@@ -11,6 +11,9 @@ proxy-groups:
       - 🇰🇷 韩国节点
       - 🚀 手动切换
       - DIRECT
+  - name: 🐻 自用直连切换
+    include-all: true
+    type: select
   - name: 🚀 手动切换
     include-all: true
     type: select
@@ -258,9 +261,9 @@ proxy-groups:
     type: select
 
 rule-providers:
-  EMBY:
-    url: https://raw.githubusercontent.com/Guannipishia/Guannipishi/refs/heads/main/EMBY
-    path: ./ruleset/EMBY.list
+  Direct:
+    url: https://raw.githubusercontent.com/Guannipishia/Guannipishi/refs/heads/main/Direct.list
+    path: ./ruleset/Direct.list
     behavior: classical
     interval: 86400
     format: text
@@ -477,7 +480,7 @@ rule-providers:
     type: http
 
 rules:
-  - "RULE-SET,EMBY,🎯 全球直连"
+  - "RULE-SET,Direct,🐻 自用直连切换"
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
